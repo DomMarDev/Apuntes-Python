@@ -1,0 +1,10 @@
+setup.py
+dist.egg-info/PKG-INFO
+dist.egg-info/SOURCES.txt
+dist.egg-info/dependency_links.txt
+dist.egg-info/top_level.txt
+paquete/__init__.py
+paquete/adios/__init__.py
+paquete/adios/despedida.py
+paquete/hola/__init__.py
+paquete/hola/saludo.py
