@@ -41,5 +41,3 @@ triangulo = Triangulo()
 triangulo.imprime()
 triangulo.triangulo_mayor()
 triangulo.tipo_triangulo()
-
-
