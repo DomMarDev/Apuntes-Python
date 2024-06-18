@@ -42,7 +42,7 @@ class Generador_Fechas:
             print(fecha.strftime('%A, %d de %m de %Y'))
     
 
-#Instancia a la generación de dechas aleatorias
+# Instancia a la generación de dechas aleatorias
 
 generador = Generador_Fechas()
 
