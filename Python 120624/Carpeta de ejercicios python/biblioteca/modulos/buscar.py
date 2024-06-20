@@ -15,6 +15,6 @@ def buscar_libros_por_autor(biblioteca):
     if libros_autor:
         print(f'Libros de {autor.title()}:')
         for libro in libros_autor:
-            print(f'-Título: {libro['titulo'].capitalize()}, Año: {libro['año']}')
+            print(f"-Título: {libro['titulo'].capitalize()}, Año: {libro['año']}")
     else:
         print(f'No se han encontrado libros de {autor}.')
