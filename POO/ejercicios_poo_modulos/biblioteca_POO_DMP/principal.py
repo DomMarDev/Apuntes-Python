@@ -8,7 +8,7 @@ from libro.libro import Biblioteca, Libro
 biblioteca = []
 
 # Instanciamos miBiblioteca y mi_libro
-# miBiblioteca = Biblioteca(biblioteca)
+miBiblioteca = Biblioteca(biblioteca)
 mi_libro = Libro(biblioteca)
 
 
